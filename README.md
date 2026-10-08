@@ -1,13 +1,5 @@
 # SongNet: Real-time Music Genre Classification
 
-**UE24CS352A Machine Learning, Mini-Project, PES University**
-Section 5E · Team 21 · Problem #33
-
-| USN | Name |
-|---|---|
-| PES2UG24CS272 | Mayukh Vinay |
-| PES2UG24CS918 | Rakshitha K B |
-
 A reproduction of *SongNet: Real-time Music Classification* (Chi Zhang, Yue Zhang, Chen Chen, Stanford CS229, 2018), with a live demo app added.
 [Original report](https://cs229.stanford.edu/proj2018/report/53.pdf) · [Original poster](https://cs229.stanford.edu/proj2018/poster/53.pdf)
 
@@ -125,5 +117,3 @@ pip install -r requirements.txt
 3. K. Choi, G. Fazekas, M. Sandler, K. Cho. *Convolutional Recurrent Neural Networks for Music Classification.* ICASSP 2017.
 4. B. McFee et al. *librosa: Audio and Music Signal Analysis in Python.* SciPy 2015.
 
-## Acknowledgements
- All experiments were run, and all results analysed, by the team.
