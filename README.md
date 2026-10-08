@@ -89,6 +89,7 @@ Because the GRU only reads left to right, the prediction at time *t* uses only a
 
 ```
 songnet.ipynb        main notebook: cleaning, preprocessing, baselines, model, evaluation, demo
+colab_training.ipynb training on the Colab T4 GPU: rebuilds the spectrograms with the same cleaned list and split, trains SongNet, saves songnet.pt
 app.py               Streamlit web app: upload a song and watch the genre prediction live
 requirements.txt     Python libraries
 outputs/
