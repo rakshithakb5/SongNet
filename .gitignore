@@ -1,0 +1,16 @@
+# Python environment (everyone creates their own with pip install -r requirements.txt)
+.venv/
+
+# FMA dataset: 7+ GB, downloaded separately (see README)
+data/
+
+# processed spectrograms: 2.6 GB, recreated by the notebook
+outputs/X.npy
+
+# demo songs: copies of FMA test tracks, recreated by the notebook
+demo_songs/
+
+# temporary files
+__pycache__/
+.ipynb_checkpoints/
+*.zip

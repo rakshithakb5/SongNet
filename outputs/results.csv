@@ -1,0 +1,8 @@
+model,test accuracy (%)
+Random guess,12.5
+KNN,50.4
+Logistic Regression,53.5
+MLP,49.5
+SVM,59.5
+SongNet (ours),63.0
+Stanford SongNet (paper),65.2
